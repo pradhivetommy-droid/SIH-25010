@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:27/09/2025
+## Register Number:25014743
+## Name:B.RAGUL
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -35,34 +35,47 @@ Supporting Data
 • Studies show ICT-based advisories can increase crop yield by 20–30%.
 
 ## Problem Creater's Organization
+
 Government of Punjab
 
 ## Theme
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+Based on soil health,weather condition,market value the app recommands what crops can we choose this season.
+it will reduce the cost and improve yield sustainability.works without internet where the internet signal is weak.
+offers community support where farmers can share experiences.  
+
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+machine learning models to predict the crop diseases in uploaded images.
+cloud-based infrastructure ensures scalability for million of farmers.
+my SQL for strong security features.
+for FRONTEND: we use HTML,CSS,javascript and react.js preferred to create mobile app for android and IOS.
+For BACKEND: python with django for frameworks. 
+Database:MySQL for protected data and NoSQL for unstructured data.
+intergrating GPS based geotagging like Google maps for accurate,location-specific advisory.
+Data from Indian Meteorological Department (IMD) for weather prediction accuracy.
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+Use open source frameworks to reduce development costs.
+implement this plan in one state if it's go well we can gradually expand worldwide.
+we want to provide this app for free or minimal cost subscription and gain fund from government and agri-tech partnerships.
+we dont expect high tech smartphones from smartphone so we can use chatbots.
+farmers are mostly uneducated peoples so we want to provide voice assistant.
+
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+this app make the farmers more profitable and reduces expenses.
+reduces dependency of others and directly connects farmers to profit oppotunities.
+prediciting the climate changes for unexpected weather changes.
+builds a digitized farmer database for crop insurance initiatives.
+Image based pest/disease identification help farmers to reduce crop losses pesticide overuse.
+
 
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+
+Example case studies from Precision Agriculture projects in India (ICAR reports).
+FAO research on digital farming adoption in developing countries.
+Success stories of mAgri initiatives in Kenya and Bangladesh.
+
